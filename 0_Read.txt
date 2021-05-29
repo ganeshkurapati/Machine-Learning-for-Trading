@@ -1,0 +1,23 @@
+Textbooks
+Machine - Learning - Tom Mitchell
+What Hedge Funds Really Do - An Introduction to Portfolio Management
+Yves Hilpisch-Python for Finance_ Analyze Big Financial Data-O'Reilly Media (2014)
+
+Pandas
+https://pandas.pydata.org/ #data frame
+https://numpy.org/         #numerical library
+https://www.scipy.org/
+https://matplotlib.org/.   #for plotting data
+
+Dataframe
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.html
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.head.html
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.tail.html
+
+Join
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.join.html
+
+Indexing and range
+https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.date_range.html
+
